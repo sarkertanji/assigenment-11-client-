@@ -1,0 +1,11 @@
+.carts {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  row-gap: 18px;
+  padding: 5%;
+}
+small,
+h1 {
+  color: orangered;
+  font-weight: bold;
+}

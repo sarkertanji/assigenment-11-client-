@@ -1,0 +1,21 @@
+.reviwe {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  column-gap: 20px;
+  padding: 5%;
+}
+.icon {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgba(4, 44, 4, 0.856);
+  color: white;
+}
+.icon p {
+  font-size: 20px;
+  font-weight: 500;
+}
+.icon i {
+  font-size: 100px;
+  margin: 10px;
+}

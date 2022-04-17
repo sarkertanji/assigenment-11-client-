@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/zxyLgqn/pexelssergiosouza3772302.jpg",
+    "name": "Costrica",
+    "city": "panama",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/vQyVwnk/pexels-valdemaras-d-1874675.jpg",
+    "name": "Peru",
+    "city": "Bolivia",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/7V7YZgx/pexels-tirachard-kumtanom-450062.jpg",
+    "name": "EL Salador",
+    "city": " Belize",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior",
+    "price": 1200
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/r0MQPtk/pexels-rafael-cerqueira-4737448.jpg",
+    "name": "Thailand",
+    "city": "Combodia",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/FYcXkSF/pexels-pixabay-358046.jpg",
+    "name": "Cuba",
+    "city": "Havana",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/F4SXKyh/pexels-ngoc-vuong-2847894.jpg",
+    "name": "Peyto Lake",
+    "city": "Banff",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/5M8bYFd/pexels-ngoc-vuong-2847862.jpg",
+    "name": "Sailing",
+    "city": "Pacific",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/th4Rjyb/pexels-kammeran-gonzalezkeola-7925746.jpg",
+    "name": "Rica",
+    "city": "Costarica",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/M6h91cC/pexels-artem-beliaikin-1230665.jpg",
+    "name": "Congo",
+    "city": "Africa",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/JRxz8dn/pexels-asad-photo-maldives-3426869.jpg",
+    "name": "Dugi Otok",
+    "city": "Croeta",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co/zxyLgqn/pexelssergiosouza3772302.jpg",
+    "name": "Costrica",
+    "city": "panama",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co/r0MQPtk/pexels-rafael-cerqueira-4737448.jpg",
+    "name": "Thailand",
+    "city": "Combodia",
+    "description": "“Lorem ipsum dolor sit amet, ad vix fuisset assentior. Vim dicit lobortis molestiae no, maiorum postulant has ex. singulis ut, delicata qualisque ei eum. Lorem dolor sit amet, ad vix fuisset assentior.",
+    "price": 1200
+  }
+]
