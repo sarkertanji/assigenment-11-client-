@@ -9,3 +9,35 @@ h1 {
   color: orangered;
   font-weight: bold;
 }
+
+/*  */
+@media only screen and (max-width: 480px) {
+  .carts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    padding: 1%;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .carts {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+    justify-items: center;
+    row-gap: 15px;
+    padding: 2%;
+  }
+}
+@media only screen and (min-width: 769px) and (max-width: 1279px) {
+  .carts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    column-gap: 25px;
+    row-gap: 25px;
+  }
+}

@@ -19,3 +19,30 @@
   font-size: 100px;
   margin: 10px;
 }
+/*  */
+@media only screen and (max-width: 480px) {
+  .reviwe {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+    padding: 2%;
+  }
+  .icon {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: rgba(4, 44, 4, 0.856);
+    color: white;
+  }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px) {
+  .reviwe {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 20px;
+    row-gap: 15px;
+    padding: 4%;
+  }
+}
