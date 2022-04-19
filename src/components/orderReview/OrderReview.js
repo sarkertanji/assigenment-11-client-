@@ -4,15 +4,13 @@ import { useForm } from "react-hook-form";
 import useAuth from "../../Hooks/useAuth";
 import "./OrderReview.css";
 import { Card } from "react-bootstrap";
-import img from "../../img/explor.jpg";
 
 const OrderReview = () => {
   const { id } = useParams();
-  const { user } = useAuth();
   // state
   const [selected, setSelected] = useState([]);
   useEffect(() => {
-    const url = `http://localhost:5000/place/${id}`;
+    const url = `https://warm-reaches-47554.herokuapp.com/place/${id}`;
     fetch(url)
       .then((res) => res.json())
       .then((data) => {
@@ -30,7 +28,7 @@ const OrderReview = () => {
     data.id = id;
     data.name = selected.name;
     data.img = selected.img;
-    fetch("http://localhost:5000/users", {
+    fetch("https://warm-reaches-47554.herokuapp.com/users", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
